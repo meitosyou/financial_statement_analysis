@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-import scoreing_AI
-import get_otherdata
+# import scoreing_AI
+# import get_otherdata
 
 def main():
     # サンプルのデータフレームを作成
